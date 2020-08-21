@@ -1,0 +1,3 @@
+module.exports = {
+    llave: 'eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjcxNzIyOTcsInR5cGUiOiJleHRlcm5hbCIsInVzZXIiOiJtb2xpbmFodWVsNDRAZ21haWwuY29tIn0.AVjNTZNC-lc66lkGgmSyVM_qwk8VziE1d2mbsWZKRtadqGz5Ue-_sw25EKThnDg_bzRelbcOQnHhAMEG1Xwh9g'
+}
