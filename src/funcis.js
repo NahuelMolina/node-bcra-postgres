@@ -1,12 +1,12 @@
-class myFuncis {
+const myResult = class myCatch {
     constructor(first,second){
         this.other = first;
         this.another = second;
     }
 
     showResult(){
-        console.log(`El resultado es ${this.other} y ${this.another}`);
+        return console.log(`El resultado es ${this.other} y ${this.another}`);
     }
 }
 
-module.exports = myFuncis;
+module.exports = myResult;
