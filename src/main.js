@@ -25,7 +25,7 @@ req.get(option, async (err,res,data) => {
             for(let id=0;id<lim;id++){
 
                 let date = array[id].d;
-                let amount = array[id].v;
+                let amount = array[id].v.toString();
 
                 let send = new Painter(date,amount,id);
                 await send.putData();
